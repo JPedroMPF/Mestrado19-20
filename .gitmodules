@@ -1,2 +1,3 @@
 [submodule "InGameVoice-MastersFinalProject"]
-	url = https://github.com/JPedroMPF/InGameVoice-MastersFinalProject
+	path = InGameVoice-MastersFinalProject
+	url = https://github.com/JPedroMPF/InGameVoice-MastersFinalProject.git
